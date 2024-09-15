@@ -8,7 +8,7 @@ ID: CT08DS7219
 
 Domain: Full Stack Development
 
-Duration: Augest to September 2024
+Duration: August to September 2024
 
 
 **Personal Portfolio:**
